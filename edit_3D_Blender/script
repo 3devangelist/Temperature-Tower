@@ -1,0 +1,8 @@
+if os.path.exists("TEMPS.txt"):
+    with open("TEMPS.txt", "r") as file:
+        for line in file:
+            texto=line.strip()
+            # fazer aqui o que se quiser com o texto de cada linha, como por exemplo criar um objecto de texto novo e atribuir-lhe o texto da linha em questão
+            bpy.ops.object.text_add()
+            bpy.context.active_object.data.body=temp
+            
