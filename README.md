@@ -18,15 +18,18 @@ If you never used blender and you think is hard, is not hard, is different, and 
 ## Process 
 
 ![Blender1](images/01_blender.png)
+*image Blender1*
 
 I have modeled a solid rectangle with 20X20X10mm *(image blender1(1;2))* and make a array *(image blender1(4))* on Z, in blender these is trivial, but like i wanted to feel the layer adhesion i made a bezel of 4mm *(image blender1(3))*.
 In order to later remember the temperature gantry, i have imprinted the temperatures on the tower a common idea of the community, but to be editable in blender i could not add the *"tower"* and *"text"* because the tower was made with the array modifier and with that modifier i have duplicated some faces, that later on will be the reason to have errors in the boolean union of the meshes. Some times we have to go to work around in blender to 3D printing, of course you could repair all the meshes in blender but you have to lose the editable information applying all the modifiers stack, and that is not good for later users edit it.
 
 ![Blender2](images/02_blender.png)
+*image Blender2*
 
 The pipeline for editing the file is simple, you edit the text, selecting the text and enter on edit mode, and then, erase all the number of the temperature range, and type it the range you want, input first the lowest temperature and then going to max temperature.
 
 ![Blender3](images/03_blender.png)
+*image Blender3*
 
 If you need more temperature range you have to increase the number of arrays in array modifier and later input more temperatures is simple.
 if you want to export the temperature range on the name of the file, you have to add that name in the tower mesh name like in the picture *"Blender4"*.
