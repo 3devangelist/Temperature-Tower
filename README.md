@@ -1,3 +1,6 @@
+## this file contain orthographic errors is in development 
+
+
 ![](images/ASA_test_temp.jpg)
 Tower Test print for ASA on my [maZEmendel machine](https://github.com/3devangelist/PrusaMendel)
 
@@ -8,7 +11,7 @@ Because of that, i have research in [thinigverse](https://www.thingiverse.com/se
 
 # Assumptions
 
-You should never assume that if is the same material as the same properties, if you change the manufacturer our change the color, some times the materials differers of the production batch, that is not good! but happens, and you should test it!.
+You should never assume that if is the same material has the same properties, if you change the manufacturer our change the color, some times the materials differers of the production batch, that is not good! but happens, and you should test it!.
 
 **Keep in mind!** if you want the best mechanical proprieties and better accuracy of your parts or should use the **natural colors** of the materials you chose, normally they are not pretty but the true is that pigments are like **waste in your filament**, only worsen the mechanical and printing proprieties   
 
