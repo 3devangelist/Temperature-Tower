@@ -1,3 +1,6 @@
+![](images/ASA_test_temp.jpg)
+Tower Test print for ASA on my [maZEmendel machine](https://github.com/3devangelist/PrusaMendel)
+
 # About
 
 In my experimentation, i see that the plastic material in FDM as different reactions to the temperature, in some temperatures we have more dimensional accuracy in some we have more mechanic resistance, in some we lose both.
