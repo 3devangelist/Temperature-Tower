@@ -68,6 +68,31 @@ To be able to export the model to STL, you have to select the to meshes and is i
 
 *image Blender5*
 
-## 2. Slicing
+### 1.3. Repairing meshes
+
+Like i said above, you have to repair the meshes from blender because of the way 
+
+## 2. Slicing (to review - Fernando)
+
+In these topic you can have multiple approaches, but i will try to document the simplest way, to create the Gcode and then edit it!
+I have used simplify3D, and these is the slicer i really use on my professional day to day use, but you can achive similar gcode on cura, slicer, etc..
+
+### 2.1. Gcode creation 
+
+These settings are only a recommendation! You should experiment that is the point of these GIT!
+
+Settings:
+
+>>*	**Layer hight:** 0.2 *(but you can use however you want)*
+>>* **perimeters :** 2 (on cura 0.8mm)
+>>* **Top Layers :** 0 (none)
+>>* **Bottom Layers :** 0 (none)
+>>* **Ventilation :** these setting depends of the material and you should make some experimentation, but keep in mind that the layers have too cool down and the print is less than 15s to layer, even in ABS you should have some low ventilation to the tower be useful.
+>>* **minimum layer time :**  Disable
+>>* **Speed :** 40 mms
+
+![](images/01_simplifypreview.png)
+
+
 
 
