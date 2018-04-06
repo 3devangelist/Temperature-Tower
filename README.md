@@ -83,13 +83,13 @@ These settings are only a recommendation! You should experiment that is the poin
 
 Settings:
 
->>*	**Layer hight:** 0.2 *(but you can use however you want)*
->>* **perimeters :** 2 (on cura 0.8mm)
->>* **Top Layers :** 0 (none)
->>* **Bottom Layers :** 0 (none)
->>* **Ventilation :** these setting depends of the material and you should make some experimentation, but keep in mind that the layers have too cool down and the print is less than 15s to layer, even in ABS you should have some low ventilation to the tower be useful.
->>* **minimum layer time :**  Disable
->>* **Speed :** 40 mms
+>*	**Layer hight:** 0.2 *(but you can use however you want)*
+>* **perimeters :** 2 (on cura 0.8mm)
+>* **Top Layers :** 0 (none)
+>* **Bottom Layers :** 0 (none)
+>* **Ventilation :** these setting depends of the material and you should make some experimentation, but keep in mind that the layers have too cool down and the print is less than 15s to layer, even in ABS you should have some low ventilation to the tower be useful.
+>* **minimum layer time :**  Disable
+>* **Speed :** 40 mms
 
 ![](images/01_simplifypreview.png)
 
